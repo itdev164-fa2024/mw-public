@@ -8,3 +8,4 @@
 - [x] Activity 2
 - [x] Activity 3
 - [x] Activity 4
+- [x] Activity 5
