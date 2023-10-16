@@ -9,3 +9,4 @@
 - [x] Activity 3
 - [x] Activity 4
 - [x] Activity 5
+- [x] Activity 6

@@ -25,7 +25,7 @@ const StyledLink = styled(Link)`
   }
 `;
 
-const Header = ({ siteTitle }) => (
+export const Header = ({ siteTitle }) => (
   <Outer>
     <H1>
       <StyledLink to="/">
@@ -34,5 +34,3 @@ const Header = ({ siteTitle }) => (
     </H1>
   </Outer>
 );
-
-export default Header;
