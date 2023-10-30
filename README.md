@@ -11,3 +11,4 @@
 - [x] Activity 5
 - [x] Activity 6
 - [x] Activity 7
+- [x] Activity 8
