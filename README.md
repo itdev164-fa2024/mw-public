@@ -12,3 +12,4 @@
 - [x] Activity 6
 - [x] Activity 7
 - [x] Activity 8
+- [x] Activity 9
